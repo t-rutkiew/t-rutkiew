@@ -1,5 +1,3 @@
 Hey!
 
-# This is my readme file
-
->My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+- :vulcan_salute: I am @t-rutkiew
