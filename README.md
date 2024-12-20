@@ -1,3 +1,3 @@
 Hey!
 
-- :vulcan_salute: I am @t-rutkiew
+- I am @t-rutkiew :call_me_hand:
